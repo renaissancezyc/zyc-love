@@ -1,7 +1,7 @@
 # 安装
 ```python
 
-pip install zyc_love
+pip install zyc_love #直接最新版本即可
 
 ```
 
